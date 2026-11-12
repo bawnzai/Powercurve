@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="extension_name">Power Curve</string>
+    <string name="graph_name">Power Curve Graph</string>
+    <string name="graph_description">Shaded power curve across the full active ride. Tap for custom intervals and the full-ride average. Configure intervals and smoothing in Power Curve settings.</string>
+    <string name="settings_title">Power Curve settings</string>
+    <string name="settings_help">Custom intervals, separated by commas. Use s, min or h. Saving recalculates the current ride immediately. Full active ride duration is always included.</string>
+    <string name="settings_interval_hint">15s, 30s, 60s, 2min, 5min, 8min, 20min, 60min</string>
+    <string name="settings_smooth">Smooth curve</string>
+    <string name="settings_smooth_help">Round the line between measured points without changing their values. Turn off for straight lines.</string>
+    <string name="settings_save">Save and apply</string>
+    <string name="settings_defaults">Restore defaults</string>
+    <string name="settings_defaults_hint">Defaults selected. Tap Save and apply to confirm.</string>
+    <string name="settings_saving">Saving and recalculating...</string>
+    <string name="settings_saved">Saved. Intervals and smoothing applied immediately.</string>
+    <string name="settings_save_error">Could not save settings. Please try again.</string>
+    <string name="settings_invalid_saved">Saved Power Curve intervals are invalid. Defaults loaded; please review settings.</string>
+    <string name="preview_interval">%1$s (sample)</string>
+    <string name="ride_interval">Ride %1$s</string>
+    <string name="graph_waiting">Awaiting power</string>
+    <string name="graph_content_description">Power curve graph</string>
+</resources>

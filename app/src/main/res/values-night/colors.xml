@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#FFAAAAAA</color>
+    <color name="graph_background">#FF1A1F26</color>
+    <color name="graph_line_start">#FF6AB7FF</color>
+    <color name="graph_line_end">#FF4DD0E1</color>
+    <color name="graph_point">#FF90CAF9</color>
+    <color name="graph_selected_point">#FFFFB74D</color>
+</resources>
